@@ -33,11 +33,11 @@ export default function Navbar() {
         <a href="#" className="flex items-center gap-2 group">
           <div className="w-9 h-9 rounded-xl bg-gradient-to-tr from-blue-600 to-cyan-400 p-[1px] transition-transform duration-300 group-hover:scale-110">
             <div className="w-full h-full bg-[#020617] rounded-[11px] flex items-center justify-center text-white font-bold font-mono text-sm">
-              F
+              G
             </div>
           </div>
           <span className="font-extrabold text-lg text-white tracking-wider group-hover:text-cyan-400 transition-colors">
-            FALDAN<span className="text-cyan-400">.</span>
+            GRISELDA<span className="text-cyan-400">.</span>
           </span>
         </a>
 
